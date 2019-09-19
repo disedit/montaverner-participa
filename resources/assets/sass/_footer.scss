@@ -1,0 +1,58 @@
+.footer-background {
+  background-color: $body-bg;
+  border-top: 1px $gray-lighter solid;
+  padding-top: 2rem;
+}
+
+.main-footer {
+  padding-bottom: 2rem;
+
+  .languages {
+    background: $white;
+    margin-bottom: 2rem;
+  }
+}
+
+.council-details {
+  h3 {
+    font-weight: 600;
+    font-size: 1.25rem;
+  }
+
+  p {
+    margin-bottom: 0.25rem;
+  }
+
+  span {
+    margin-right: 0.5rem;
+    white-space: nowrap;
+  }
+
+  a {
+    word-break: break-word;
+  }
+
+  .wai-logo {
+    margin-top: 1.5rem;
+  }
+}
+
+address {
+  margin-bottom: 0;
+}
+
+@include media-breakpoint-up(sm) {
+  .main-footer {
+    display: flex;
+
+    .media {
+      order: 1;
+      margin-right: auto;
+    }
+
+    .footer-language {
+      order: 2;
+      width: 11.25rem;
+    }
+  }
+}
