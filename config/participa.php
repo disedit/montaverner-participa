@@ -9,32 +9,32 @@ return [
     */
 
     /* The name of the city */
-    'municipality' => 'Any City',
+    'municipality' => 'Montaverner',
 
     /* The name of the council */
-    'council_name' => 'Any Council',
+    'council_name' => 'Ajuntament de Montaverner',
 
     /* The council's home page */
-    'council_url' => 'https://anycity.com',
+    'council_url' => 'http://www.montaverner.es',
 
     /* The council's logo / coat of arms */
     'council_logo' => 'council.png',
 
     /* The e-mail where users can contact for support */
-    'contact_email' => 'participa@disedit.com',
+    'contact_email' => 'ajuda@montavernerparticipa.com',
 
     /* The council's address */
-    'contact_address' => 'Pl. Major, 1',
+    'contact_address' => 'Pl. Major, 6',
 
     /* The council's contact phone */
-    'contact_phone' => '44343242',
+    'contact_phone' => '962 297 008',
 
     /* The council's facebook page and app ID */
-    'facebook' => 'https://facebook.com/council',
+    'facebook' => 'https://www.facebook.com/ajuntament.montaverner',
     'facebook_app_id' => '180444172483336',
 
     /* The council's twitter account */
-    'twitter' => 'infoDisedit',
+    'twitter' => '',
 
     /*
     |--------------------------------------------------------------------------
