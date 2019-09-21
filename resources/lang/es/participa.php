@@ -11,10 +11,10 @@ return [
     'twitter_locale' => 'es',
     'facebook_locale' => 'es_ES',
     'heading' => '¡Tú decides en qué invierte el Ayuntamiento!',
-    'subheading' => 'El Gobierno de [city_name] te abre la posibilidad de participar activamente en las decisioines que más te afectan.',
-    'tweet' => 'He votado en qué proyectos quiero que @Es[city_name] invierta',
-    'description' => 'Tú decides las inversiones del Ayuntamiento. El Gobierno de [city_name] te abre la posibilidad de participar activamente en las decisioines que más te afectan. Juntos queremos mejorar [city_name], ¡y tu voto cuenta!',
-    'keywords' => '[city_name], ajuntament, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, [city_name] participa, votació, votación, referendum',
+    'subheading' => 'El Gobierno de Montaverner te abre la posibilidad de participar activamente en las decisioines que más te afectan.',
+    'tweet' => 'He votado en qué proyectos quiero que @EsMontaverner invierta',
+    'description' => 'Tú decides las inversiones del Ayuntamiento. El Gobierno de Montaverner te abre la posibilidad de participar activamente en las decisioines que más te afectan. Juntos queremos mejorar Montaverner, ¡y tu voto cuenta!',
+    'keywords' => 'Montaverner, ajuntament, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, Montaverner participa, votació, votación, referendum',
 
     /*
     |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ return [
     'vote' => 'Vota',
     'print' => 'Imprime',
     'close' => 'Cierra',
-    'ordered_randomly' => 'Ordenadas [city_name]toriamente',
+    'ordered_randomly' => 'Ordenadas Montavernertoriamente',
     'SMS_notification' => 'Tu código para votar es :code',
 
     /*

@@ -1,6 +1,6 @@
 export default {
   global: {
-    tweet: 'He votado en qué proyectos quiero que [city_name] invierta'
+    tweet: 'He votado en qué proyectos quiero que Montaverner invierta'
   },
   option: {
     cost: 'Coste',
@@ -53,7 +53,7 @@ export default {
   booth_receipt: {
     heading: 'Gracias por participar!',
     success: 'Teu voto ha sido emitido correctamente',
-    social: 'Invita tus amistades a participar y hagamos la [city_name] que queremos entre todos y todas ;)',
+    social: 'Invita tus amistades a participar y hagamos la Montaverner que queremos entre todos y todas ;)',
     back_to_council: 'Ves a la página del Ayuntamiento',
     back_to_booth: 'Emite otro voto'
   },

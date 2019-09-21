@@ -1,6 +1,6 @@
 export default {
   global: {
-    tweet: 'I have voted on which projects I want [city_name] to invest in'
+    tweet: 'I have voted on which projects I want Montaverner to invest in'
   },
   option: {
     cost: 'Cost',

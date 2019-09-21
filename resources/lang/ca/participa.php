@@ -11,10 +11,10 @@ return [
     'twitter_locale' => 'es',
     'facebook_locale' => 'ca_ES',
     'heading' => 'Tu decideixes en què inverteix l\'Ajuntament!',
-    'subheading' => 'El Govern de [city_name] t\'obri la possibilitat de participar activament en les decisions que més t\'afecten.',
-    'tweet' => 'He votat en què projectes vull que [city_name] invertisca',
-    'description' => 'Tu decideixes les inversions de l\'Ajuntament. El Govern de [city_name] t\'obri la possibilitat de participar activament en les decisions que més t\'afecten. Junts volem millorar [city_name], i el teu vot compta!',
-    'keywords' => '[city_name], ajuntament, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, [city_name] participa, votació, votación, referendum',
+    'subheading' => 'El Govern de Montaverner t\'obri la possibilitat de participar activament en les decisions que més t\'afecten.',
+    'tweet' => 'He votat en què projectes vull que Montaverner invertisca',
+    'description' => 'Tu decideixes les inversions de l\'Ajuntament. El Govern de Montaverner t\'obri la possibilitat de participar activament en les decisions que més t\'afecten. Junts volem millorar Montaverner, i el teu vot compta!',
+    'keywords' => 'Montaverner, ajuntament, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, Montaverner participa, votació, votación, referendum',
 
     /*
     |--------------------------------------------------------------------------

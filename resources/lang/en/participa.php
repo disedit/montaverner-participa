@@ -11,10 +11,10 @@ return [
     'twitter_locale' => 'en',
     'facebook_locale' => 'en_GB',
     'heading' => 'You have a say on the Council\'s decisions!',
-    'subheading' => 'The Town Council of [city_name] lets you take an active part in the decisions that affect you the most.',
-    'tweet' => 'I have voted on which projects I want @Es[city_name] to invest in',
-    'description' => 'You have a say on the Council\'s decisions. The City Council of [city_name] lets you take an active part in the decisions that affect you the most.',
-    'keywords' => '[city_name], council, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, [city_name] participa, votació, votación, referendum',
+    'subheading' => 'The Town Council of Montaverner lets you take an active part in the decisions that affect you the most.',
+    'tweet' => 'I have voted on which projects I want @EsMontaverner to invest in',
+    'description' => 'You have a say on the Council\'s decisions. The City Council of Montaverner lets you take an active part in the decisions that affect you the most.',
+    'keywords' => 'Montaverner, council, ayuntamiento, govern, obert, participacio ciutadana, democracia participativa, Montaverner participa, votació, votación, referendum',
 
     /*
     |--------------------------------------------------------------------------
