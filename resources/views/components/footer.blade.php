@@ -5,7 +5,7 @@
 
     <div class="media">
         <a href="{{ config('participa.council_url') }}" target="_blank" rel="noopener" title="{{ config('participa.council_name', 'Any Council') }}">
-            <img src="{{ secure_asset('images/' . config('participa.council_logo', 'council.png')) }}" alt="{{ config('participa.council_name', 'Any Council') }}" width="200" class="d-flex align-self-start mr-3" />
+            <img src="{{ secure_asset('images/' . config('participa.council_logo', 'council.png')) }}" alt="{{ config('participa.council_name', 'Any Council') }}" width="150" class="d-flex align-self-start mr-3" />
         </a>
 
         <div class="media-body council-details">
