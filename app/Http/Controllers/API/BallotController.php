@@ -29,7 +29,7 @@ class BallotController extends Controller
      */
     public function ballotQR($ref)
     {
-        \Debugbar::disable();
+        //\Debugbar::disable();
 
         $qr = QrCode::size(200)->generate(secure_url('ballot/' . $ref));
 
