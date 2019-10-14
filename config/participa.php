@@ -18,7 +18,7 @@ return [
     'council_url' => 'http://www.montaverner.es',
 
     /* The council's logo / coat of arms */
-    'council_logo' => 'council.png',
+    'council_logo' => 'conselleria.png',
 
     /* The e-mail where users can contact for support */
     'contact_email' => 'ajuda@montavernerparticipa.com',
