@@ -22,8 +22,7 @@ class AdminController extends Controller
     public function index()
     {
         $user = Auth::user();
-        $token = JWTAuth::fromUser($user);
         $editionIsOpen = Edition::current()->isOpen();
-        return view('admin.dashboard', compact('user', 'token', 'editionIsOpen'));
+        return view('admin.dashboard', compact('user', 'editionIsOpen'));
     }
 }

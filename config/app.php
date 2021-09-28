@@ -236,7 +236,6 @@ return [
         'Messagebird' => Bjrnblm\Messagebird\Facades\Messagebird::class,
         'Debugbar' => Barryvdh\Debugbar\Facade::class,
         'QrCode' => SimpleSoftwareIO\QrCode\Facades\QrCode::class,
-        'Sentry' => Sentry\SentryLaravel\SentryFacade::class,
 
     ],
 

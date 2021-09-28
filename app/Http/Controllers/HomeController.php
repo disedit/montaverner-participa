@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 use App\Edition;
 use App\Option;
 use Illuminate\Support\Facades\Auth;
-use Tymon\JWTAuth\Facades\JWTAuth;
 
 class HomeController extends Controller
 {
@@ -52,7 +51,6 @@ class HomeController extends Controller
         if ($edition->isOpen() || $forceOpen) {
             $user = $request->user();
             $inPerson = ($user) ? true : false;
-            $token = ($inPerson) ? JWTAuth::fromUser($user) : null;
             $loadingTemplate = (count($edition->questions))
                 ? $edition->questions[0]->template
                 : 'cards';
