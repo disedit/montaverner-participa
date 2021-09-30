@@ -55,7 +55,7 @@ class HomeController extends Controller
                 ? $edition->questions[0]->template
                 : 'cards';
             return view('booth', compact(
-                'edition', 'token', 'inPerson', 'pastEditions', 'loadingTemplate'
+                'edition', 'inPerson', 'pastEditions', 'loadingTemplate'
             ));
         }
 

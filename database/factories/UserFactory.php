@@ -1,5 +1,5 @@
 <?php
-
+use Illuminate\Support\Str;
 /*
 |--------------------------------------------------------------------------
 | Model Factories
@@ -20,6 +20,6 @@ $factory->define(App\User::class, function (Faker\Generator $faker) {
         'email' => $faker->unique()->email,
         'password' => $password ?: $password = bcrypt('secret'),
         'is_superadmin' => 1,
-        'remember_token' => str_random(10),
+        'remember_token' => Str::random(10),
     ];
 });
